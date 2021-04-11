@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi there :wave:
 
-<!--
-**ggades/ggades** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***"Google is my shepherd, I shall lack nothing" (O Google é meu pastor e nada me faltará)***
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🙋 29-year-old developer
+
+🚀 Working with front-end development since 2012
+
+🎮 Gamer since 1992
+
+☕ Coffee addicted since- *:can't remember, think I need more coffee:*
+
+<br>
+
+You can also find me on:
+
+[LinkedIn](https://linkedin.com/in/guilhermegades)
+
+[Instagram](https://instagram.com/guigades)
+
+
+## Quick overview
+* GitHub stats:  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggades&langs_count=8" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ggades&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+</a>  
