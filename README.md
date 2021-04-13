@@ -18,6 +18,8 @@ You can also find me on:
 
 [LinkedIn](https://linkedin.com/in/guilhermegades)
 
+[Medium](https://medium.com/@guilherme.gades)
+
 [Instagram](https://instagram.com/guigades)
 
 
