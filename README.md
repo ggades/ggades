@@ -4,7 +4,7 @@
 
 <br>
 
-🙋 29-year-old developer
+🙋 33-year-old developer
 
 🚀 Working with front-end development since 2012
 
